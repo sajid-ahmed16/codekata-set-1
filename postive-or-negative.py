@@ -3,6 +3,6 @@ if A >=0:
   if A == 0:
       print("zero")
   else:
-      print("positive")
+      print("Positive")
 else:
-   print("negative")
+   print("Negative")
