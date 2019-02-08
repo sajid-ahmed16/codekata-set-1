@@ -7,9 +7,9 @@ def main():
     rev=rev*10+dig
     A=A//10
  if(temp==rev):
-    print("Yes")
+    print("yes")
  else:
-    print("No")
+    print("no")
 
 if __name__ == '__main__':
     main()
